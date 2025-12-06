@@ -126,7 +126,7 @@ Plots included:
 | Task                           | Model                       | Performance         |
 | ------------------------------ | --------------------------- | ------------------- |
 | **Severity Prediction**        | Random Forest Classifier    | **90.33% accuracy** |
-| **Economic Impact Prediction** | Gradient Boosting Regressor | **R² = 0.80**       |
+| **Economic Impact Prediction** | Gradient Boosting Regressor | **R² = 0.796**       |
 
 **Key Insight**
 
